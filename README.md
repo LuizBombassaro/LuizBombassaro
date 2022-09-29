@@ -8,7 +8,7 @@
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </header>
 
-<div>
+<div align="center">
   <a href="https://github.com/LuizBombassaro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizBombassaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBombassaro&layout=compact&langs_count=7&theme=dark"/>
