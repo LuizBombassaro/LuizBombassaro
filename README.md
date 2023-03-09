@@ -1,7 +1,7 @@
 ## Olá mundo, Eu sou Luiz Bombassaro
 
-- 🔭 Hoje trabalho com Genexus
-- 🌱 Estudando C# e Javascript
+- 🔭 Hoje trabalho como Dev Júnior utilizando Genexus
+- 🌱 Estudando Javascript e seus frameworks
 - 📫 Contato: luiz.bombassaro@outlook.com
 
 <header>
